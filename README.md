@@ -1,77 +1,100 @@
-# CPyProjectTemplate
-# Engineering_3_Notebook
-
-&nbsp;
-
+# CircuitPython
+This repository will actually serve as a aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
-* [Onshape_Assignment_Template](#onshape_assignment_template)
+* [Table of Contents](#TableOfContents)
+* [Hello_CircuitPython](#Hello_CircuitPython)
+* [CircuitPython_Servo](#CircuitPython_Servo)
+* [CircuitPython_LCD](#CircuitPython_LCD)
+* [NextAssignmentGoesHere](#NextAssignment)
+---
 
-&nbsp;
+## Hello_CircuitPython
+
+### Description & Code
+Description goes here
+
+Here's how you make code look like code:
+
+```python
+Code goes here
+
+```
 
 
-### Assignment Description
+### Evidence
 
-Make a servo rotate 180 degrees using VS code
 
-### Evidence 
+![spinningMetro_Optimized](https://user-images.githubusercontent.com/54641488/192549584-18285130-2e3b-4631-8005-0792c2942f73.gif)
 
-Cpy servo wiring.jpg
-IMG_0662.MOV
+
+And here is how you should give image credit to someone, if you use their work:
+
+Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+
+
+
+### Wiring
+Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
+Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+
+### Reflection
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
+
+
+
+
+## CircuitPython_Servo
+
+### Description & Code
+
+```python
+Code goes here
+
+```
+
+### Evidence
+
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+### Reflection
 
-### Code
-import time
-import board
-import pwmio
-from adafruit_motor import servo
 
-### create a PWMOut object on Pin A2.
-pwm = pwmio.PWMOut(board.A1, duty_cycle=2 ** 15, frequency=50)
 
-### Create a servo object, my_servo.
-my_servo = servo.Servo(pwm)
 
-while True:
-    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
-        my_servo.angle = angle
-        time.sleep(0.05)
-    for angle in range(180, 0, -5): # 180 - 0 degrees, 5 degrees at a time.
-        my_servo.angle = angle
-        time.sleep(0.05)
+## CircuitPython_LCD
+
+### Description & Code
+
+```python
+Code goes here
+
+```
+
+### Evidence
+
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+
+### Wiring
 
 ### Reflection
 
-Make sure you have the most recent librarys or it wont work also if your getting errors related to PINs change it to a different analog pin before you look elsewhere.
 
-## Onshape_Assignment_Template
 
-### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
-### Part Link 
+## NextAssignment
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+### Description & Code
 
-### Part Image
+```python
+Code goes here
 
-Take a nice screenshot of your Onshape document. 
+```
+
+### Evidence
+
+### Wiring
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-&nbsp;
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-
-### Test Image
-
-### Test GIF
