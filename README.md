@@ -2,7 +2,7 @@
 
 
 
-README.MD belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine
+README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine
 >>>>>>> 6080bb1c5dbe8dd184be3535be29dd1fbacf3979
 
 ## Table of Contents
