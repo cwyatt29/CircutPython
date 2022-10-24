@@ -1,8 +1,6 @@
-# CircuitPython
+# Engineering 3 Notebook 2022-2023
 
-## DISCLAIMER
 
-README.MD belonged to Josie M. but I made edits and deleted the work that wasnt mine
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
@@ -10,11 +8,20 @@ README.MD belonged to Josie M. but I made edits and deleted the work that wasnt 
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [Ultrasonic Sensor](#Ultrasonic_Sensor)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-
-
-
-
+* [Intro to CAD](#introtocad)
+* [Swing Arm](#swingarm)
+* [Multi-Part Studio](#multi-partstudio)
+* [Pumpkin](#pumpkin)
 ---
+
+
+
+## CircuitPython
+
+## DISCLAIMER
+
+README.MD (for the Code) belonged to Josie M. but I made edits and deleted the work that wasnt mine. ALL CAD DOCUMENTATION IS ORIGINAL!!!! 
+
 
 ## Hello_CircuitPython
 
@@ -163,7 +170,7 @@ Ultrasonic sensor wiring
 
 Image credit goes to [Benton House](https://github.com/Jhouse53/CircuitPython)
 ### Reflection
-This was my Favorite thing that we did the whole time. Joint was mad easy but my fucking sensor was busted and I had done it right but the sensor was buggin. Got a new sensor and It worked right away
+This was my Favorite thing that we did the whole time. Was mad easy but my sensor was busted and I had done it right but the sensor was buggin. Got a new sensor and It worked right away
 
 
 
@@ -182,3 +189,81 @@ I dont have any vids lmao
 
 ### Reflection
 This was fun I never got it to print on the screen because I hate looking for the libarys but I got it to fully function (to my standards) in the serial monitor.
+
+
+
+# CAD
+
+
+## Intro_To_CAD
+### Description
+The goal was to design a Spinner toy that would launch into the air when a key is pulled. I used tools that were new to me such as the helix and sweep. I was responsible for making the spinner part and the propeller part.
+
+### Evidence and Pics
+Weight: 10.522 g
+
+![spinner](C:\Users\cwyatt29\Pictures\Saved Pictures\Spinner.PNG)
+
+
+
+
+### Reflection
+
+
+
+
+
+
+## Swing_Arm
+### Description
+Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric.
+
+
+
+### Evidence and Pics
+Weight: 2355.7 g
+
+
+
+
+### Reflection
+
+
+
+
+
+
+## Multi-Part_Studio
+### Description
+
+
+
+
+### Evidence and Pics
+Weight: 2856.13 g
+
+
+
+
+
+
+
+### Reflection
+
+
+
+
+
+## Pumpkin
+### Description
+
+
+
+
+### Evidence and Pics
+Weight: 7.285 lbs
+
+
+
+
+### Reflection
