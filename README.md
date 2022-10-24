@@ -2,6 +2,9 @@
 
 
 
+README.MD belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine
+>>>>>>> 6080bb1c5dbe8dd184be3535be29dd1fbacf3979
+
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
@@ -60,6 +63,7 @@ lk
 
 ![Look at it go!! So many random colors...](https://github.com/jmuss07/Circuit-Python/blob/main/Images/Random_Color.gif?raw=true)
 
+Image credit goes to [Josie Muss](https://github.com/jmuss07/Circuit-Python)
 
 ### Reflection
 Neopixel looks nice and has lots of differnt color capibilities not any real applicable use. 
@@ -113,10 +117,14 @@ if (btn2.value==True):
 NOT MY VIDEO
 
 ![...And the serial moniter showing its rotations!](https://github.com/jmuss07/Circuit-Python/blob/main/Images/Servo_Code_GIF.gif?raw=true)
+
+Image credit goes to [Josie Muss](https://github.com/jmuss07/Circuit-Python)
 ### Wiring
 Simple servo wiring!
 
 ![Simple servo wiring!](https://github.com/jmuss07/Circuit-Python/blob/main/Images/servo.png?raw=true)
+
+Image credit goes to [Josie Muss](https://github.com/jmuss07/Circuit-Python)
 
 ### Reflection
 I did this shit wrong I didnt know what capictive touch was so I just ape brained it. But I couldve got it working if I put in better effort and actully took the time to read the page.
@@ -189,6 +197,7 @@ I dont have any vids lmao
 
 ### Reflection
 This was fun I never got it to print on the screen because I hate looking for the libarys but I got it to fully function (to my standards) in the serial monitor.
+<<<<<<< HEAD
 
 
 
@@ -267,3 +276,4 @@ Weight: 7.285 lbs
 
 
 ### Reflection
+
