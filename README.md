@@ -19,7 +19,7 @@ README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss0
 
 
 
-## CircuitPython
+# **CircuitPython**
 
 ## DISCLAIMER
 
@@ -57,7 +57,7 @@ while True:
 
 ```
 
-lk
+
 ### Evidence
 
 
@@ -201,7 +201,7 @@ This was fun I never got it to print on the screen because I hate looking for th
 
 
 
-# CAD
+# **CAD**
 
 
 ## Intro_To_CAD
