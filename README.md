@@ -219,7 +219,7 @@ Weight: 10.522 g
 
 ![spinner](/Images/Spinner.PNG)
 
-
+*https://cvilleschools.onshape.com/documents/73d7010c7540dad2063afac7/w/665c6b0b34cbec05f29edf63/e/21e07fdbfcc43ec13b791f6b*
 
 
 ### Reflection
@@ -234,13 +234,13 @@ I liked this assignment because I got to do the more chalenging role which taugh
 ### Description
 Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric.
 
-
+There is only one part in the assignment but the part is very complex and has holes, filets and, chamfers on every single plane.
 
 ### Evidence and Pics
 Weight: 2355.7 g
 
 ![Swing_Arm](/Images/Swing%20Arm.PNG)
-
+*https://cvilleschools.onshape.com/documents/a5fd8d22b575fddb2bdee574/w/76f65086d2b77c85ffe6fc60/e/afefe01db5f326c914c81df6*
 
 ### Reflection
 
@@ -253,15 +253,15 @@ The original image was black and white so it was hard to see what the final shou
 
 ### Description
 
-Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric.
-
+Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric. I also used the section veiw tool which essentially let you see the part if it was cut in half. This is useful for making sure all of your parts are in the correct place. It is also good to occcacsionly use the check interfernce tool to make sure
+nothing is to big.
 
 
 ### Evidence and Pics
 Weight: 2856.13 g
 
 ![Multi-Part_Studio](/Images/Multipart%20Studio.PNG)
-
+*https://cvilleschools.onshape.com/documents/70205c568136983cceef3de1/w/f7eb5c01c69e37fd72611c13/e/ca8e036bd565a6607f8a4e05* 
 
 
 
@@ -280,12 +280,14 @@ Use all the tools available to your knowlegde to creat a pumpkin and then make a
 
 The pumpkin is made of bronze and the baseplate its attached to is made of steel which is why its so heavy. The cut out face is the face of infamous youtuber Dream. Dream has been active online since 2014, but did not gain substantial popularity until 2019 and 2020. He is well known for his YouTube series "Minecraft Manhunt" and was also well known for his Minecraft speedruns, in which he was accused of cheating in late 2020. Dream later admitted to using game modifications, but maintained that he used them unintentionally during his single-player speedruns, intending for them to only apply during his multiplayer "challenge videos" Content created in the Dream SMP, Dream's invite-only survival multiplayer (SMP) Minecraft server that stars content creators engaged in roleplay, has also attracted considerable attention and a popular fandom. He also has come under controversy for multiple grooming allegations.
 
+*https://en.wikipedia.org/wiki/Dream_(YouTuber)*
+
 
 ### Evidence and Pics
 Weight: 7.285 lbs
 
 ![Pumpkin](/Images/Drumpkin.PNG) 
 
-
+*https://cvilleschools.onshape.com/documents/a7955c3dd0322a3ef6f1c2e3/w/9b4b64cb12b972a4d351a598/e/7dcb0c9bd76b4a67b95b970e*
 ### Reflection
 It was fun to mess around with the image overlay tool. These tools also have practical aspects that would help when making something that has to attach to something that doesnt exist in CAD. like if you needed to make something to mount to a fixed mounting peice.
