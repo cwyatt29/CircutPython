@@ -23,7 +23,7 @@ README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss0
 
 ## DISCLAIMER
 
-README.MD (for the Code) belonged to Josie M. but I made edits and deleted the work that wasnt mine. ALL CAD DOCUMENTATION IS ORIGINAL!!!! 
+README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine. ALL CAD DOCUMENTATION IS ORIGINAL!!!! 
 
 
 ## Hello_CircuitPython
@@ -211,7 +211,7 @@ The goal was to design a Spinner toy that would launch into the air when a key i
 ### Evidence and Pics
 Weight: 10.522 g
 
-![spinner](C:\Users\cwyatt29\Pictures\Saved Pictures\Spinner.PNG)
+![spinner](C:\Users\cwyatt29\Pictures\SavedPictures\Spinner.PNG)
 
 
 
@@ -232,7 +232,7 @@ Replicated the provided design using the images provided whilst not relying on o
 ### Evidence and Pics
 Weight: 2355.7 g
 
-
+![Swing_Arm](C:\Users\cwyatt29\CircutPython\Images\SwingArm.PNG)
 
 
 ### Reflection
@@ -251,7 +251,7 @@ Weight: 2355.7 g
 ### Evidence and Pics
 Weight: 2856.13 g
 
-
+![Multi-Part_Studio](C:\Users\cwyatt29\CircutPython\Images\MultipartStudio.PNG)
 
 
 
@@ -272,7 +272,7 @@ Weight: 2856.13 g
 ### Evidence and Pics
 Weight: 7.285 lbs
 
-
+![spinner](C:\Users\cwyatt29\CircutPython\Images\Drumpkin.PNG) 
 
 
 ### Reflection
