@@ -6,7 +6,6 @@ README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss0
 >>>>>>> 6080bb1c5dbe8dd184be3535be29dd1fbacf3979
 
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [Ultrasonic Sensor](#Ultrasonic_Sensor)
@@ -205,6 +204,7 @@ This was fun I never got it to print on the screen because I hate looking for th
 
 
 ## Intro_To_CAD
+
 ### Description
 The goal was to design a Spinner toy that would launch into the air when a key is pulled. I used tools that were new to me such as the helix and sweep. I was responsible for making the spinner part and the propeller part.
 
@@ -224,6 +224,7 @@ I liked this assignment because I got to do the more chalenging role which taugh
 
 
 ## Swing_Arm
+
 ### Description
 Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric.
 
@@ -243,8 +244,10 @@ The original image was black and white so it was hard to see what the final shou
 
 
 ## Multi-Part_Studio
+
 ### Description
 
+Replicated the provided design using the images provided whilst not relying on only dimensions. I heavily used tools like equal, parallel, and symmetric.
 
 
 
@@ -259,11 +262,12 @@ Weight: 2856.13 g
 
 ### Reflection
 
-
+Using the design intents you gain so much information on how the final project should work. Also make sure you read the fine print and change the materials if necessary.
 
 
 
 ## Pumpkin
+
 ### Description
 Use all the tools available to your knowlegde to creat a pumpkin and then make a slide show presenting the pumpkin in order to win a contest
 
