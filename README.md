@@ -237,7 +237,7 @@ Weight: 2355.7 g
 
 ### Reflection
 
-
+The original image was black and white so it was hard to see what the final should look like. Also it was really easy to try to use dimensions on everything but it will save you so much time if you use constrains that change as needed but will also keep the structure of the shape better.
 
 
 
@@ -265,7 +265,7 @@ Weight: 2856.13 g
 
 ## Pumpkin
 ### Description
-
+Use all the tools available to your knowlegde to creat a pumpkin and then make a slide show presenting the pumpkin in order to win a contest
 
 
 
