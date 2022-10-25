@@ -1,9 +1,6 @@
-# Engineering 3 Notebook 2022-2023
+# Engineering 3 Notebook 2022 Q1
 
 
-
-README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine
->>>>>>> 6080bb1c5dbe8dd184be3535be29dd1fbacf3979
 
 ## Table of Contents
 * [Hello_CircuitPython](#Hello_CircuitPython)
@@ -15,14 +12,21 @@ README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss0
 * [Multi-Part Studio](#multi-partstudio)
 * [Pumpkin](#pumpkin)
 ---
+## *DISCLAIMER*
+
+README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine. ALL CAD DOCUMENTATION IS ORIGINAL!!!! 
+
+*P.S.*
+
+The documentation has both the Code work and the CAD work in the same repository. I prefer to have it like this because I can edit all my work in one place. I also think that it looks better and is easier for a reader because all of my work is in one place. I personally think that github is very user-unfriendly and that it sucks for people who don't know what their doing.
+
 
 
 
 # **CircuitPython**
 
-## DISCLAIMER
 
-README.MD (FOR THE CODE CRAP) belonged to [Josie Muss](https://github.com/jmuss07) but I made edits and deleted the work that wasnt mine. ALL CAD DOCUMENTATION IS ORIGINAL!!!! 
+
 
 
 ## Hello_CircuitPython
@@ -208,6 +212,8 @@ This was fun I never got it to print on the screen because I hate looking for th
 ### Description
 The goal was to design a Spinner toy that would launch into the air when a key is pulled. I used tools that were new to me such as the helix and sweep. I was responsible for making the spinner part and the propeller part.
 
+The Model consists of 5 main parts the key, ring, spinner, body, and prop. All the parts are made out of ABS plastic. The prop is suprisingly light and the outer support ring is only 2mm thick.
+
 ### Evidence and Pics
 Weight: 10.522 g
 
@@ -271,6 +277,8 @@ Using the design intents you gain so much information on how the final project s
 ### Description
 Use all the tools available to your knowlegde to creat a pumpkin and then make a slide show presenting the pumpkin in order to win a contest
 
+
+The pumpkin is made of bronze and the baseplate its attached to is made of steel which is why its so heavy. The cut out face is the face of infamous youtuber Dream. Dream has been active online since 2014, but did not gain substantial popularity until 2019 and 2020. He is well known for his YouTube series "Minecraft Manhunt" and was also well known for his Minecraft speedruns, in which he was accused of cheating in late 2020. Dream later admitted to using game modifications, but maintained that he used them unintentionally during his single-player speedruns, intending for them to only apply during his multiplayer "challenge videos" Content created in the Dream SMP, Dream's invite-only survival multiplayer (SMP) Minecraft server that stars content creators engaged in roleplay, has also attracted considerable attention and a popular fandom. He also has come under controversy for multiple grooming allegations.
 
 
 ### Evidence and Pics
