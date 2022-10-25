@@ -211,7 +211,7 @@ The goal was to design a Spinner toy that would launch into the air when a key i
 ### Evidence and Pics
 Weight: 10.522 g
 
-![spinner](C:\Users\cwyatt29\Pictures\SavedPictures\Spinner.PNG)
+![spinner](https://github.com/cwyatt29/CircutPython/blob/master/Images/Spinner.PNG?raw=true)
 
 
 
@@ -232,7 +232,7 @@ Replicated the provided design using the images provided whilst not relying on o
 ### Evidence and Pics
 Weight: 2355.7 g
 
-![Swing_Arm](C:\Users\cwyatt29\CircutPython\Images\SwingArm.PNG)
+![Swing_Arm](https://github.com/cwyatt29/CircutPython/blob/master/Images/Swing%20Arm.PNG?raw=true)
 
 
 ### Reflection
@@ -251,7 +251,7 @@ Weight: 2355.7 g
 ### Evidence and Pics
 Weight: 2856.13 g
 
-![Multi-Part_Studio](C:\Users\cwyatt29\CircutPython\Images\MultipartStudio.PNG)
+![Multi-Part_Studio](https://github.com/cwyatt29/CircutPython/blob/master/Images/Multipart%20Studio.PNG?raw=true)
 
 
 
@@ -272,7 +272,7 @@ Weight: 2856.13 g
 ### Evidence and Pics
 Weight: 7.285 lbs
 
-![spinner](C:\Users\cwyatt29\CircutPython\Images\Drumpkin.PNG) 
+![Pumpkin](https://github.com/cwyatt29/CircutPython/blob/master/Images/Drumpkin.PNG?raw=true) 
 
 
 ### Reflection
