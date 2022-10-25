@@ -211,13 +211,13 @@ The goal was to design a Spinner toy that would launch into the air when a key i
 ### Evidence and Pics
 Weight: 10.522 g
 
-![spinner](https://github.com/cwyatt29/CircutPython/blob/master/Images/Spinner.PNG?raw=true)
+![spinner](/Images/Spinner.PNG)
 
 
 
 
 ### Reflection
-
+I liked this assignment because I got to do the more chalenging role which taught me how to use new commands. the commands are going to be useful in the future to make spinning and geared objects.I think that one think that wouldve been useful to know before hand is to not get ahead of the instructions because if you do something that isnt supposed to be done until later it can mess up 
 
 
 
@@ -232,7 +232,7 @@ Replicated the provided design using the images provided whilst not relying on o
 ### Evidence and Pics
 Weight: 2355.7 g
 
-![Swing_Arm](https://github.com/cwyatt29/CircutPython/blob/master/Images/Swing%20Arm.PNG?raw=true)
+![Swing_Arm](/Images/Swing%20Arm.PNG)
 
 
 ### Reflection
@@ -251,7 +251,7 @@ Weight: 2355.7 g
 ### Evidence and Pics
 Weight: 2856.13 g
 
-![Multi-Part_Studio](https://github.com/cwyatt29/CircutPython/blob/master/Images/Multipart%20Studio.PNG?raw=true)
+![Multi-Part_Studio](/Images/Multipart%20Studio.PNG)
 
 
 
@@ -272,8 +272,8 @@ Weight: 2856.13 g
 ### Evidence and Pics
 Weight: 7.285 lbs
 
-![Pumpkin](https://github.com/cwyatt29/CircutPython/blob/master/Images/Drumpkin.PNG?raw=true) 
+![Pumpkin](/Images/Drumpkin.PNG) 
 
 
 ### Reflection
-
+It was fun to mess around with the image overlay tool. These tools also have practical aspects that would help when making something that has to attach to something that doesnt exist in CAD. like if you needed to make something to mount to a fixed mounting peice.
