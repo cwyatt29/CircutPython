@@ -3,19 +3,26 @@ from time import sleep
 import board
 import simpleio
 from analogio import AnalogIn 
-from digitalio import DigitalInOut
+import pwmio  
 
-analog_in = AnalogIn(board.A0) #potentionmeter pin
-digital_out = DigitalInOut(board.D8)
+analog_in = AnalogIn(board.A1) #potentionmeter pin
+pin_out = pwmio.PWMOut(board.D8,duty_cycle=65535,frequency=5000)
+
 while True:
 
   sensor_value = analog_in.value
   # Map the sensor's range from 0<=sensor_value<=255 to 0<=sensor_value<=1023
-  mapped_value = simpleio.map_range(sensor_value, 0, 65520, 0, 255)
-  print("mapped sensor value: ", mapped_value)
-  time.sleep(0.1)
-  mapped_value = digital_out
+  mapped_value = int(simpleio.map_range(sensor_value, 0, 65535, 0, 255))
   
+  pin_out.duty_cycle = sensor_value
+  print("mapped sensor value: ", sensor_value)
+  time.sleep(0.1)
 
 
+
+
+
+
+
+#FREQUENCY = true and PMW ISSUES
 
