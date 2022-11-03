@@ -231,7 +231,7 @@ while True:
 ```
 
 ### Evidence
-![Swing_Arm](/C:\Users\cwyatt29\CircutPython\Images\ezgif.com-gif-maker.gif)
+![Evidence_Gif](/C:\Users\cwyatt29\CircutPython\Images\ezgif.com-gif-maker.gif)
 
 ### Wiring 
 
