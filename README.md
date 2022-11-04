@@ -231,7 +231,7 @@ while True:
 ```
 
 ### Evidence
-![Evidence_Gif](Images\ezgif.com-gif-maker.gif)
+![Evidence_Gif](Images\Motor_Control.gif)
 
 ### Wiring 
 
