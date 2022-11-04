@@ -235,6 +235,8 @@ while True:
 
 ### Wiring 
 
+![Wiring_Pictures](https://github.com/cwyatt29/Engineering_3_Notebook/blob/master/Images/Fritzing.PNG?raw=true)
+
 ### Reflection
 
 # **CAD**
@@ -250,7 +252,7 @@ The Model consists of 5 main parts the key, ring, spinner, body, and prop. All t
 ### Evidence and Pics
 Weight: 10.522 g
 
-![spinner](/Images/Spinner.PNG)
+![Spinner](/Images/Spinner.PNG)
 
 *https://cvilleschools.onshape.com/documents/73d7010c7540dad2063afac7/w/665c6b0b34cbec05f29edf63/e/21e07fdbfcc43ec13b791f6b*
 
