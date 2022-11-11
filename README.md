@@ -239,6 +239,11 @@ while True:
 
 ### Reflection
 
+When I was coding the code for the motor I ran into some issues with the motoring pulsing instead of spinning. I was using PWN commands which I was unfamiliar with. PWN have 2 important imputs that need to be defined based on the input and output you use. For me this was a potentiometer(IN) and a DC motor(OUT). The first important input is duty_cycle, it can be a number from 0 to 65535 and defines how much the circut is on/off I used 65535 because this meant it would be on all the time. The second important input in frequency, it tells how strong the signal should be. I had originally put 50 thinking that it wouldnt matter. But then my motor started to pulse and I was confused why. Eventually I figured out that the frequency needed to be higher so I changed it to 5000 and it got rid of that problem.
+
+
+
+ 
 # **CAD**
 
 
